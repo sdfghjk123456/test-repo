@@ -4,7 +4,7 @@ import React, { Component } from "react"
 // import {useRef } from "react";
 import { Link } from "react-router-dom"
 
-
+// changes are done here.
 export default class SignUp extends Component {
 
     constructor(props) {

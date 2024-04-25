@@ -15,6 +15,7 @@ export default function Home() {
             .catch(err => console.log(err))
     }, [])
     // console.log(users);
+    //changes are done here.
     return (
         <div>
             <Link to="/signup"><button className='hp'>ADD</button> </Link>
